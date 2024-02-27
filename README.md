@@ -1,2 +1,2 @@
 # GSOC-Camera
-Auto-zoom camera
+Auto-zoom camera: CCExtractor qualification app
